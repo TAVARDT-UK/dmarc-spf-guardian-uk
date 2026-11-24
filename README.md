@@ -2,10 +2,11 @@
 
 [![Technical Audit](https://img.shields.io/badge/TAVARDT-Email%20Security-5b3cf5.svg)](https://tools.tavardt.com/uk/dmarc-checker/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 DNS email authentication auditor for spoofing prevention, phishing mitigation, and technical compliance with NCSC guidelines and Cyber Essentials.
 
-Developed and maintained by the cybersecurity and infrastructure defense division of **TAVARDT United Kingdom**.
+Developed and maintained by the cybersecurity and infrastructure defence division of **TAVARDT United Kingdom**.
 
 ***
 
@@ -46,9 +47,23 @@ For continuous perimeter monitoring and graphical reporting, access the official
 
 ***
 
-## Enterprise Defense Consulting
+## Enterprise Defence Consulting
 
-For dedicated cybersecurity architecture, threat modeling, and incident readiness in United Kingdom, contact **TAVARDT United Kingdom**.
+For dedicated cybersecurity architecture, threat modelling, and incident readiness in the United Kingdom, contact **TAVARDT United Kingdom**.
+
+***
+
+## Governance and Sovereignty
+
+* **Sovereign Unit**: [TAVARDT United Kingdom](https://ag.tavardt.com/uk/) (`TAVARDT-UK`)
+* **Core Standards**: [00-core Governance](https://github.com/TAVARDT-UK/00-core)
+* **Diagnostic Portal**: **TAVARDT UK Diagnostic Suite**
+* **Enterprise Security**: [TAVARDT UK Cybersecurity](https://ag.tavardt.com/uk/cybersecurity/)
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
