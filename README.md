@@ -1,8 +1,8 @@
 # DMARC, SPF and DKIM Guardian
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Technical Audit](https://img.shields.io/badge/TAVARDT-Email%20Security-5b3cf5.svg)](https://tools.tavardt.com/uk/dmarc-checker/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 DNS email authentication auditor for spoofing prevention, phishing mitigation, and technical compliance with NCSC guidelines and Cyber Essentials.
 
